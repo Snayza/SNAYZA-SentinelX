@@ -5,7 +5,7 @@
 > Author: **Snayza** · Version: 1.0.0 · Python 3.10+
 
 
-![image alt](Screenshot 2026-10-12 222623.png)
+![image alt]([Screenshot 2026-10-12 222623.png)](https://github.com/Snayza/SNAYZA-SentinelX/blob/main/Screenshot%202026-10-12%20222623.png?raw=true)
 
 ## Features
 
