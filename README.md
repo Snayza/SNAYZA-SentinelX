@@ -4,6 +4,9 @@
 
 > Author: **Snayza** · Version: 1.0.0 · Python 3.10+
 
+
+![image alt](Screenshot 2026-10-12 222623.png)
+
 ## Features
 
 - SHA-256 file fingerprints and integrity baseline
